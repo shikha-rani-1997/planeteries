@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/planeteries/static/css/main.d4e73ecd.chunk.css",
+    "main.js": "/planeteries/static/js/main.b023762f.chunk.js",
+    "main.js.map": "/planeteries/static/js/main.b023762f.chunk.js.map",
+    "runtime-main.js": "/planeteries/static/js/runtime-main.e8be1811.js",
+    "runtime-main.js.map": "/planeteries/static/js/runtime-main.e8be1811.js.map",
+    "static/js/2.7220bca4.chunk.js": "/planeteries/static/js/2.7220bca4.chunk.js",
+    "static/js/2.7220bca4.chunk.js.map": "/planeteries/static/js/2.7220bca4.chunk.js.map",
+    "index.html": "/planeteries/index.html",
+    "static/css/main.d4e73ecd.chunk.css.map": "/planeteries/static/css/main.d4e73ecd.chunk.css.map",
+    "static/js/2.7220bca4.chunk.js.LICENSE.txt": "/planeteries/static/js/2.7220bca4.chunk.js.LICENSE.txt",
+    "static/media/galaxy.e108660f.jpg": "/planeteries/static/media/galaxy.e108660f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8be1811.js",
+    "static/js/2.7220bca4.chunk.js",
+    "static/css/main.d4e73ecd.chunk.css",
+    "static/js/main.b023762f.chunk.js"
+  ]
+}
